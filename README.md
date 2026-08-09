@@ -1,14 +1,58 @@
-# Hi, I'm wxypereira > [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Java+%26+Python+Developer;Software+enthusiast;Build+efficient+software)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://wallpaperaccess.com/full/8351186.gif" width="100%" alt="banner">
+</p>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=wxypereira&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=wxypereira&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=wxypereira&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=wxypereira&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=sans&duration=2000&pause=600&color=F7F7F7&width=415&lines=Hi,+I'm+Pereira;Hi,+I'm+a+Java+and+Python+Developer;Hi,+I'm+a+Software+enthusiast;Hi,+I'm+focused+on+building+efficient+software" alt="Typing SVG" />
+  </a>
+</h1>
 
 ---
-[![](https://komarev.com/ghpvc/?username=wxypereira&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<h1>About me</h1>
+
+<table>
+  <tr>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" alt="Developer GIF">
+    </td>
+    <td width="60%" valign="middle">
+      <h3>👋 Hi, I'm Pereira!</h3>
+      <p>Software Developer passionate about technology, focused on building creative and efficient solutions.</p>
+      <p>I love learning new tools, contributing to open-source projects, and turning ideas into code.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h1>My personal stack</h1>
+
+<p align="center">
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,html,css,anaconda" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,linux,git,github" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kafka,python,spring" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sqlite,windows,powershell,arch" />
+  </a>
+</p>
+
+---
+
+<h1>Github Stats</h1>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=wxypereira&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://streak-stats.demolab.com/?user=wxypereira&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=wxypereira&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+[![](https://komarev.com/ghpvc/?username=wxypereira&icon=0&colo=auto)](https://visitcount.itsvg.in)
