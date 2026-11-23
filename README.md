@@ -26,33 +26,37 @@
 </table>
 
 ---
-
 <h1>My personal stack</h1>
 
-<p align="center">
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,anaconda" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,linux,git,github" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kafka,python,spring" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sqlite,windows,powershell,arch" />
-  </a>
-</p>
+[![my-personal-stack](https://skillicons.dev/icons?i=java,spring,powershell,python,anaconda,html,css,markdown,sqlite,mysql,bash,linux,arch,windows,git,github,docker,vim,obsidian,vscodium&perline=5)](https://skillicons.dev)
 
 ---
 
 <h1>Github Stats</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=wxypereira&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://streak-stats.demolab.com/?user=wxypereira&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=wxypereira&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.shion.dev/api?username=wxypereira&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+  <img src="https://streak-stats.demolab.com/?user=wxypereira&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=wxypereira&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
-[![](https://komarev.com/ghpvc/?username=wxypereira&icon=0&colo=auto)](https://visitcount.itsvg.in)
+---
+
+<h1>My top repositories</h1>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=wxypereira&repo=context-sanitary&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=wxypereira&repo=nimd&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=wxypereira&repo=awesome-cli&theme=dark&hide_border=true" />
+</p>
+
+---
+
+[![Profile Views](https://komarev.com/ghpvc/?username=wxypereira&label=PROFILE+VIEWS&color=181717&style=flat)](https://komarev.com/ghpvc/?username=wxypereira) ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwxypereira&query=%24.public_repos&label=Reposit%C3%B3rios&style=for-the-badge&logo=github&color=181717) ![GitHub Followers](https://img.shields.io/github/followers/wxypereira?label=FOLLOWERS&style=for-the-badge&logo=github&color=181717)
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wxypereira/wxypereira/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wxypereira/wxypereira/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wxypereira/wxypereira/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
