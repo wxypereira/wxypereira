@@ -71,8 +71,6 @@
   </picture>
 </p>
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wxypereira&label=PROFILE+VIEWS&color=181717&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwxypereira&query=%24.public_repos&label=REPOSITORIES&style=for-the-badge&logo=github&color=181717" alt="Public Repos" />
